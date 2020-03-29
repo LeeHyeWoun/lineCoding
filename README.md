@@ -2,13 +2,17 @@
 
 <table>
   <tr>
-    <td>
+    <td colspan=3>
       <img src="https://user-images.githubusercontent.com/48902155/77853409-e7194600-721e-11ea-81ac-9b89490c24ec.png"></img>
     </td>
-    <td>
+  </tr>
+  <tr>
+    <td colspan=3>
       <img src="https://user-images.githubusercontent.com/48902155/77853410-e7b1dc80-721e-11ea-8319-873d50278bb3.png"></img>
     </td>
-    <td>
+  </tr>
+  <tr>
+    <td colspan=3>
       <img src="https://user-images.githubusercontent.com/48902155/77853411-e7b1dc80-721e-11ea-8ceb-77c56896c9a1.png"></img>
     </td>
   </tr>
